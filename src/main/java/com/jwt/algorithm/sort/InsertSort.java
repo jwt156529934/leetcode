@@ -1,4 +1,4 @@
-package com.jwt.algorithm;
+package com.jwt.algorithm.sort;
 
 import java.util.Arrays;
 

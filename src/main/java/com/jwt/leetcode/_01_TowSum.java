@@ -17,7 +17,7 @@ import java.util.Map;
  * 所以返回 [0, 1]
  * 链接：https://leetcode-cn.com/problems/two-sum
  */
-public class TowSum {
+public class _01_TowSum {
     public static void main(String[] args) {
         int[] nums = {1,2,3,4,5};
         int[] ints = twoSum1(nums, 9);
